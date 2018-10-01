@@ -26,3 +26,10 @@ footer {
   background-color: dimgray;
   text-align: left;
 }
+
+.newyork {
+  background-image: url("../resources/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
